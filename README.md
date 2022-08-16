@@ -1,6 +1,6 @@
 # flutter_image_resize
 
-A new Flutter project.
+Pure Dart Image Resizing with image package
 
 ## Getting Started
 
